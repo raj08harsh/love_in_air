@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  min-height: 100%;
+  background: #F8F8FF;
+  font-family: 'Great Vibes', 'Dancing Script', 'Parisienne', cursive, sans-serif;
+}
