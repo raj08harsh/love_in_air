@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/love_in_air/static/css/main.9e4268a3.css",
+    "main.js": "/love_in_air/static/js/main.2394daba.js",
+    "static/js/584.2d88eb49.chunk.js": "/love_in_air/static/js/584.2d88eb49.chunk.js",
+    "static/media/aur_mohabbat.mp3": "/love_in_air/static/media/aur_mohabbat.6a992b9a3a9b09669a84.mp3",
+    "static/media/dil_hi_toh_hai.mp3": "/love_in_air/static/media/dil_hi_toh_hai.536c29aefd3fc48ac695.mp3",
+    "static/media/O_Meri_Laila.mp3": "/love_in_air/static/media/O_Meri_Laila.33610571cc658ed5f0f3.mp3",
+    "static/media/are_are_are.mp3": "/love_in_air/static/media/are_are_are.ff344a60d59342ecfc3b.mp3",
+    "static/media/Sapphire.mp3": "/love_in_air/static/media/Sapphire.98740fa3fc69c53cb624.mp3",
+    "static/media/shreya8.jpg": "/love_in_air/static/media/shreya8.01eea5e7cce7093bebc8.jpg",
+    "static/media/shreya9.jpg": "/love_in_air/static/media/shreya9.aa261281030aca5311d3.jpg",
+    "static/media/shreya14.jpg": "/love_in_air/static/media/shreya14.012f5d376d76f5bfe3bc.jpg",
+    "static/media/shreya15.jpg": "/love_in_air/static/media/shreya15.d63e86934e8ebfd855d7.jpg",
+    "static/media/shreya2.jpg": "/love_in_air/static/media/shreya2.2502ae9a4177e9571573.jpg",
+    "service-worker.js": "/love_in_air/service-worker.js",
+    "index.html": "/love_in_air/index.html",
+    "main.9e4268a3.css.map": "/love_in_air/static/css/main.9e4268a3.css.map",
+    "main.2394daba.js.map": "/love_in_air/static/js/main.2394daba.js.map",
+    "584.2d88eb49.chunk.js.map": "/love_in_air/static/js/584.2d88eb49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4268a3.css",
+    "static/js/main.2394daba.js"
+  ]
+}
